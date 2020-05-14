@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "275230482195",
+    "firebase_url": "https://payroll-beb48.firebaseio.com",
+    "project_id": "payroll-beb48",
+    "storage_bucket": "payroll-beb48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275230482195:android:b78d508b43586b786544e6",
+        "android_client_info": {
+          "package_name": "com.example.payroll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275230482195-npeaau8ruhcqtdr96cl65m80egnvp1cp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payroll",
+            "certificate_hash": "a7bd3221287f6b95dc4df93d6b533ec095b5a006"
+          }
+        },
+        {
+          "client_id": "275230482195-o6gckcvlb1s95hpp9bjejlvtjc6c1o5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgLyWhdXFZCkY6SD9gFmYgcXcUTyiPyqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275230482195-o6gckcvlb1s95hpp9bjejlvtjc6c1o5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
